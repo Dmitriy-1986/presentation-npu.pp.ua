@@ -1,4 +1,4 @@
-let br = document.createElement('br');
+
 
 function sliderFunction() {
     const data = [
